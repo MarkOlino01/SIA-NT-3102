@@ -1,7 +1,7 @@
 # SIA-NT-3102
 # Expectations in System Integration and Architecture
 
-As I begin studying System Integration and Architecture, I expect to gain a deeper understanding of how different components of a system work together to create a complete and efficient solution. I am eager to learn about the principles behind system design, the role of architecture in ensuring scalability and reliability, and how integration enables seamless communication between software and hardware. I also look forward to exploring practical applications, as this subject will allow me to connect theories with real-world implementations.
+Hello, I'm Mark Lee Olino from BSIT-NT 3102 and as I begin studying System Integration and Architecture, I expect to gain a deeper understanding of how different components of a system work together to create a complete and efficient solution. I am eager to learn about the principles behind system design, the role of architecture in ensuring scalability and reliability, and how integration enables seamless communication between software and hardware. I also look forward to exploring practical applications, as this subject will allow me to connect theories with real-world implementations.
 
 Another expectation I have is to develop my technical skills in analyzing and designing system architectures. I believe this subject will challenge me to think critically about issues such as compatibility, performance, and security when integrating multiple systems. I also expect to gain hands-on experience with tools and methodologies that are commonly used in the industry, which will prepare me to contribute effectively in future projects or professional settings.
 
